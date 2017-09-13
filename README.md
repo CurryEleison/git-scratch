@@ -1,2 +1,3 @@
 # git-scratch
-Scratch project
+Scratch project. Go ahead and write whatever you want
+
